@@ -7,7 +7,7 @@ This repository contains projects for Udacity's [Predictive Analytics for Busine
 ### Part 1: [Problem Solving with Advanced Analytics by Alteryx](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression.
 
-- Project: [Predicting Catalog Demand (PT)](https://github.com/FelipeSoares1/Predictive-Analytics-for-Business---Udacity-Nanodegree/blob/a2aa7103a64823f9c3b123e07a5b6f86d9b7f0b4/P1%20-%20Felipe%20Soares%20Pereira.pdf)
+- Project: [Predicting Catalog Demand (Portuguese)](https://github.com/FelipeSoares1/Predictive-Analytics-for-Business---Udacity-Nanodegree/blob/a2aa7103a64823f9c3b123e07a5b6f86d9b7f0b4/P1%20-%20Felipe%20Soares%20Pereira.pdf)
 
 ### Part 2: [Creating an Analytical Dataset by Alteryx](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database.
