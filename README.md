@@ -18,7 +18,7 @@ Understand the most common data types. Understand the various sources of data. M
 Understand the importance of data visualization. Know how different data types are encoded in visualizations. Select the most effective chart or graph based on the data being displayed.
 
 ### Part 4: [Classification Models by Alteryx](https://www.udacity.com/course/classification-models--ud978)
-You will use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
+Use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
 
 - Project: [Predicting Default Risk](https://github.com/FelipeSoares1/Predictive-Analytics-for-Business---Udacity-Nanodegree/blob/bb3018fe4def14ccfdec66ba6218347653d215df/Creditworthiness%20project.docx.pdf)
 
