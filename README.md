@@ -14,10 +14,8 @@ Understand the most common data types. Understand the various sources of data. M
 
 - Project: [Data Cleanup](https://github.com/FelipeSoares1/Predictive-Analytics-for-Business---Udacity-Nanodegree/blob/86cd06f7de16ae44678c41ccd16f215f5afa9e79/P2.1%20-%20Felipe%20Soares%20Pereira.pdf)
 
-### Part 3: [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+### Part 3 (Extra-curricular): [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 Understand the importance of data visualization. Know how different data types are encoded in visualizations. Select the most effective chart or graph based on the data being displayed.
-
-- Project: [Visualizing Movie Data]()
 
 ### Part 4: [Classification Models by Alteryx](https://www.udacity.com/course/classification-models--ud978)
 You will use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
